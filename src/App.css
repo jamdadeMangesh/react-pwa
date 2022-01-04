@@ -26,3 +26,16 @@
     transform: rotate(360deg);
   }
 }
+.pwa-code{
+  display: block;
+  background-color: rgb(41, 45, 62);
+  color: rgb(191, 199, 213);
+  padding: 15px;
+  border-radius: 5px;
+}
+ul{
+  padding-left: 20px;
+}
+ul li{
+  padding: 5px 0px;
+}
