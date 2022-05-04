@@ -67,6 +67,11 @@ function App() {
 						<h6>5. Test your PWA</h6>
 						<div>To test PWA, we need to make it live on <strong>HTTPS Server.</strong></div>
 					</div>
+
+					<div className="pwa-info mt-4">
+						<h6>6. Update the PWA</h6>
+						<div>To check updated PWA, close current tab/app and relaunch it.</div>
+					</div>
 					
 				</div>
 			</header>
